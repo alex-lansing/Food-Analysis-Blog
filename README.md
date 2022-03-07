@@ -17,7 +17,6 @@ This repo contains the notebook and necessary files under "notebooks".
 
 To get an interactive verstion of this, click here:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alex-lansing/Food-Analysis-Blog/HEAD)
-Copy markdown link to clipboard
 
 ## What To Do Next?
 
