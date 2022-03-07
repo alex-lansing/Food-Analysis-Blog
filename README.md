@@ -12,6 +12,13 @@ https://alex-lansing.github.io/Food-Analysis-Blog/
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
+## Alex's Food Data Analysis
+This repo contains the notebook and necessary files under "notebooks". 
+
+To get an interactive verstion of this, click here:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alex-lansing/Food-Analysis-Blog/HEAD)
+Copy markdown link to clipboard
+
 ## What To Do Next?
 
 Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
